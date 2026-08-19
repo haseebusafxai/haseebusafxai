@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=E8A33D&center=true&vCenter=true&width=680&lines=Agentic+AI+%2B+OSINT+%2F+Dark-Web+Intelligence+Platforms;RAG+pipelines+%2B+LLM+fine-tuning+%2B+model+training;n8n+automation+%2F+lead-gen+agents+%2F+content+agents;Air-gapped+AI+deployments+for+secure+environments" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=E8A33D&center=true&vCenter=true&width=720&lines=Agentic+AI+%2B+OSINT+%2F+Dark-Web+Intelligence;RAG+pipelines+%2B+LLM+fine-tuning;n8n+automation+%2F+lead-gen+%2F+content+agents;Air-gapped+AI+deployments" alt="Typing SVG" />
 
 </div>
 
@@ -20,12 +20,14 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=haseebusafxai&show_icons=true&count_private=true&hide_title=false&hide_border=true&title_color=E8A33D&text_color=7C8A97&icon_color=E8A33D&bg_color=0B0F14" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebusafxai&layout=compact&hide_border=true&title_color=E8A33D&text_color=7C8A97&bg_color=0B0F14" />
 <br/>
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebusafxai&hide_border=true&background=0B0F14&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D&sideLabels=7C8A97&currStreakNum=E7ECEF&sideNums=E7ECEF&dates=7C8A97" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=haseebusafxai&hide_border=true&background=0B0F14&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D&sideLabels=7C8A97&currStreakNum=E7ECEF&sideNums=E7ECEF&dates=7C8A97" />
 <br/>
 <img src="https://komarev.com/ghpvc/?username=haseebusafxai&color=e8a33d&style=flat-square&label=profile+views" />
 </div>
 
 > **Private-repo count:** the badge above only shows private repos when it's rendered from an instance authenticated as *you*. See "Show private repos too" below to switch that on (10 min, free) — right now it's counting public repos only.
+>
+> **If any badge above shows a broken-image icon:** these are free public services and occasionally hiccup — the streak-stats domain above was recently migrated off a dead Heroku URL, so if you copied an older version of this file, re-copy it from here. For the stats/lang cards, a broken image is almost always `github-readme-stats.vercel.app` hitting its shared rate limit — it clears on its own within a few minutes, or permanently once you deploy your own instance (below).
 
 <br/>
 
