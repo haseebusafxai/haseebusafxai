@@ -358,58 +358,7 @@ status:
 
 ---
 
-# `07` · GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/haseebusafxai">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=haseebusafxai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=E8A33D&icon_color=E8A33D&text_color=FFFFFF&ring_color=E8A33D&include_all_commits=true&custom_title=GitHub%20Statistics"
-height="170"
-alt="GitHub Statistics"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebusafxai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=E8A33D&text_color=FFFFFF&langs_count=8"
-height="170"
-alt="Top Languages"
-/>
-
-</a>
-
-<br/><br/>
-
-<img
-src="https://streak-stats.demolab.com?user=haseebusafxai&hide_border=true&background=0B0F14&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-alt="GitHub Contribution Streak"
-/>
-
-<br/><br/>
-
-### Contribution Activity
-
-<a href="https://github.com/haseebusafxai">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=haseebusafxai&bg_color=0B0F14&color=FFFFFF&line=E8A33D&point=E8A33D&area_color=E8A33D&area=true&hide_border=true&custom_title=Contribution%20Activity"
-width="95%"
-alt="GitHub Contribution Activity"
-/>
-
-</a>
-
-<br/>
-
-<sub>
-GitHub's contribution graph represents broader activity than commits alone.
-</sub>
-
-</div>
-
----
-
-# `08` · Open Source & Development
+# `07` · Open Source & Development
 
 <div align="center">
 
