@@ -4,8 +4,9 @@
 
 ### Full Stack AI Engineer · Data Scientist · AI Systems Builder
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-E8A33D?style=for-the-badge&logoColor=0B0F14&labelColor=0B0F14)](https://haseebusafxai.github.io)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-E8A33D?style=for-the-badge&logoColor=0B0F14&labelColor=E8A33D)](https://v0-haseebusafxai.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=E8A33D)](https://www.linkedin.com/in/haseebahmadiuse/)
+[![GitHub](https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=E8A33D)](https://github.com/HaseebYousafxai)
 [![Email](https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logo=gmail&logoColor=E8A33D)](mailto:haaseebahmadyousafxai81@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=E8A33D&center=true&vCenter=true&width=850&height=45&lines=%3E+Agentic+AI+%2B+OSINT+%2F+Dark-Web+Intelligence;%3E+RAG+Pipelines+%2B+LLM+Fine-Tuning;%3E+n8n+Automation+%2B+AI+Agents;%3E+Air-Gapped+AI+Deployments" alt="Typing animation"/>
@@ -15,6 +16,8 @@
 │  AI SYSTEMS  ·  INTELLIGENCE  ·  AUTOMATION  ·  SECURE DEPLOYMENTS            │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
+
+<img src="https://komarev.com/ghpvc/?username=HaseebYousafxai&style=for-the-badge&color=E8A33D&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -38,6 +41,8 @@ My work sits at the intersection of:
 - 🔐 **Air-Gapped / Secure AI**
 - 🚀 **FastAPI + React Production Systems**
 
+> 🔗 **Full case studies, live demos and CV →** [**v0-haseebusafxai.vercel.app**](https://v0-haseebusafxai.vercel.app/)
+
 <br/>
 
 ## 02 → Current Focus
@@ -58,6 +63,7 @@ My work sits at the intersection of:
 ```yaml
 role:        Full Stack AI Engineer & Data Scientist
 location:    Islamabad, Pakistan
+portfolio:   https://v0-haseebusafxai.vercel.app/
 
 specialties:
   - Agentic AI
@@ -87,6 +93,7 @@ status:
   building: true
   learning: true
   shipping: true
+  open_to:  ["full-time", "contract", "remote"]
 ```
 
 <br/>
@@ -110,6 +117,7 @@ status:
   <img src="https://img.shields.io/badge/RAG-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
   <img src="https://img.shields.io/badge/Agentic_AI-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
   <img src="https://img.shields.io/badge/LLM_Fine--Tuning-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
+  <img src="https://img.shields.io/badge/Vector_DB-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
 </p>
 
 **Intelligence / OSINT**
@@ -140,17 +148,27 @@ status:
   <img src="https://img.shields.io/badge/AWS-0B0F14?style=for-the-badge&logo=amazonaws&logoColor=E8A33D"/>
   <img src="https://img.shields.io/badge/Azure-0B0F14?style=for-the-badge&logo=microsoftazure&logoColor=E8A33D"/>
   <img src="https://img.shields.io/badge/GCP-0B0F14?style=for-the-badge&logo=googlecloud&logoColor=E8A33D"/>
+  <img src="https://img.shields.io/badge/Vercel-0B0F14?style=for-the-badge&logo=vercel&logoColor=E8A33D"/>
 </p>
 
 <br/>
 
 ## 05 → Featured Work
 
+<div align="center">
+
+<sub>🔒 Most production repositories are private under organizational policy — walkthroughs available on request.</sub>
+
+</div>
+
+<br/>
+
 ### 🔎 Intelligence & OSINT
 
 | Project | Description |
 |---|---|
 | **OSINT Intelligence Platform** | Large-scale collection, LLM classification, entity extraction & RAG-powered intelligence search |
+| **Hopper Airgap System** | Secure one-way data transfer between isolated networks with integrity verification & audit logging |
 | **Dark Web Threat Monitoring** | Surface/deep/dark-web monitoring with automated analyst alerting |
 | **Air-Gapped AI Deployment** | Offline LLM inference and RAG for isolated environments |
 | **Social Media Intelligence** | Automated SOCMINT collection, enrichment & entity resolution |
@@ -168,8 +186,9 @@ status:
 
 | Project | Description |
 |---|---|
-| **MindGuard-GPT** | RAG-based conversational AI application |
-| **Adalat-AI-Chatbot** | Conversational AI assistant |
+| **MindGuard-GPT** | RAG-based conversational AI for mental health support |
+| **Adalat-AI-Chatbot** | Conversational AI legal assistant |
+| **Document Intelligence System** | Fine-tuned LLMs for classification, summarization & entity extraction |
 | **LLM Fine-Tuning Pipeline** | Domain-specific model fine-tuning with HuggingFace Transformers |
 
 ### 📊 Data Science
@@ -178,6 +197,14 @@ status:
 |---|---|
 | **Credit Card Fraud Detection** | 99.5% detection accuracy |
 | **Car Price Prediction** | 94% prediction accuracy |
+| **Email Spam Detection** | Transformer-based NLP classification |
+
+<div align="center">
+<br/>
+
+[![View All Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS_→-E8A33D?style=for-the-badge&logoColor=0B0F14&labelColor=E8A33D)](https://v0-haseebusafxai.vercel.app/#projects)
+
+</div>
 
 <br/>
 
@@ -242,8 +269,9 @@ status:
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-E8A33D?style=for-the-badge&logoColor=0B0F14&labelColor=E8A33D)](https://haseebusafxai.github.io)
+[![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-E8A33D?style=for-the-badge&logoColor=0B0F14&labelColor=E8A33D)](https://v0-haseebusafxai.vercel.app/)
 [![Email](https://img.shields.io/badge/START_A_CONVERSATION-0B0F14?style=for-the-badge&logo=gmail&logoColor=E8A33D)](mailto:haaseebahmadyousafxai81@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=E8A33D)](https://www.linkedin.com/in/haseebahmadiuse/)
 
 <br/><br/>
 
@@ -255,6 +283,7 @@ status:
 > system.status   [ ONLINE ]
 > mode            [ BUILDING ]
 > mission         [ TURNING DATA INTO INTELLIGENCE ]
+> portfolio       [ v0-haseebusafxai.vercel.app ]
 ```
 
 </div>
