@@ -4,74 +4,128 @@
 
 ### Full Stack AI Engineer · Data Scientist · AI Systems Builder
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-E8A33D?style=for-the-badge&logoColor=0B0F14&labelColor=E8A33D)](https://v0-haseebusafxai.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=E8A33D)](https://www.linkedin.com/in/haseebahmadiuse/)
-[![GitHub](https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=E8A33D)](https://github.com/HaseebYousafxai)
-[![Email](https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logo=gmail&logoColor=E8A33D)](mailto:haaseebahmadyousafxai81@gmail.com)
+**Building intelligent systems that turn data into automation, intelligence, and real-world applications.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=E8A33D&center=true&vCenter=true&width=850&height=45&lines=%3E+Agentic+AI+%2B+OSINT+%2F+Dark-Web+Intelligence;%3E+RAG+Pipelines+%2B+LLM+Fine-Tuning;%3E+n8n+Automation+%2B+AI+Agents;%3E+Air-Gapped+AI+Deployments" alt="Typing animation"/>
+<br/>
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  AI SYSTEMS  ·  INTELLIGENCE  ·  AUTOMATION  ·  SECURE DEPLOYMENTS            │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+<a href="https://v0-haseebusafxai.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-E8A33D?style=for-the-badge&logoColor=0B0F14" />
+</a>
+<a href="https://www.linkedin.com/in/haseebahmadiuse/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=E8A33D" />
+</a>
+<a href="https://github.com/haseebusafxai">
+  <img src="https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=E8A33D" />
+</a>
+<a href="mailto:haaseebahmadyousafxai81@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0B0F14?style=for-the-badge&logo=gmail&logoColor=E8A33D" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=HaseebYousafxai&style=for-the-badge&color=E8A33D&label=PROFILE+VIEWS"/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=E8A33D&center=true&vCenter=true&width=850&height=45&lines=%3E+Agentic+AI+%2B+Intelligent+Automation;%3E+RAG+Pipelines+%2B+LLM+Engineering;%3E+AI+Agents+%2B+n8n+Workflows;%3E+FastAPI+%2B+React+Production+Systems;%3E+Secure+%2F+Offline+AI+Deployments" alt="Typing animation"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=haseebusafxai&style=for-the-badge&color=E8A33D&label=PROFILE+VIEWS" />
 
 </div>
 
-<br/>
+---
 
-## 01 → About Me
+## `01` · About Me
 
-I build AI systems that turn large, messy data into useful intelligence.
+I build **AI-powered systems** that transform large, messy datasets into useful intelligence and production-ready applications.
 
-I'm a **Full Stack AI Engineer & Data Scientist** focused on production-grade AI systems, intelligent automation, and data-intensive applications.
+I'm a **Full Stack AI Engineer & Data Scientist** focused on:
 
-Currently building an **AI-powered OSINT and dark-web intelligence platform** — large-scale web scraping, RAG-based retrieval, LLM classification, entity extraction, monitoring, and analyst workflows.
+* 🧠 Agentic AI & LLM Engineering
+* 📚 RAG & Knowledge Retrieval
+* ⚙️ AI Automation & n8n
+* 🔎 OSINT & Web Intelligence
+* 🧪 LLM Fine-Tuning
+* 🔐 Secure / Offline AI
+* 🚀 FastAPI + React Applications
+* 📊 Data Science & Machine Learning
 
-My work sits at the intersection of:
+> **Current direction:** Building intelligent systems that combine data collection, retrieval, LLM reasoning, automation, and modern application development.
 
-- 🧠 **Agentic AI & LLM Engineering**
-- 🔎 **OSINT & Web Intelligence**
-- 📚 **RAG & Knowledge Retrieval**
-- ⚙️ **AI Automation & n8n**
-- 🧪 **LLM Fine-Tuning**
-- 🔐 **Air-Gapped / Secure AI**
-- 🚀 **FastAPI + React Production Systems**
+---
 
-> 🔗 **Full case studies, live demos and CV →** [**v0-haseebusafxai.vercel.app**](https://v0-haseebusafxai.vercel.app/)
+## `02` · What I'm Building
 
-<br/>
+<table>
+<tr>
+<td width="50%">
 
-## 02 → Current Focus
+### 🧠 Agentic AI
 
-| Focus | What I'm Building |
-|---|---|
-| 🧠 **Agentic AI** | Autonomous agents, tool use, orchestration & self-correction |
-| 🔎 **OSINT** | Surface, deep & dark-web intelligence pipelines |
-| 📚 **RAG** | Knowledge retrieval over large-scale datasets |
-| 🧪 **LLM Fine-Tuning** | Domain-specific classification & extraction models |
-| ⚙️ **Automation** | n8n workflows, lead-gen & content automation |
-| 🔐 **Secure AI** | Offline / air-gapped LLM inference & RAG |
+Autonomous agents, tool calling, orchestration, memory, and multi-step workflows.
 
-<br/>
+</td>
+<td width="50%">
 
-## 03 → System Profile
+### 📚 RAG Systems
+
+Retrieval pipelines for structured and unstructured knowledge bases.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ⚙️ AI Automation
+
+n8n workflows, intelligent automation, lead generation, and AI-powered processes.
+
+</td>
+<td>
+
+### 🔎 Web Intelligence
+
+Large-scale scraping, data extraction, enrichment, classification, and monitoring.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🧪 LLM Engineering
+
+Fine-tuning, classification, summarization, extraction, and domain-specific AI.
+
+</td>
+<td>
+
+### 🔐 Secure AI
+
+Offline / air-gapped inference, private RAG pipelines, and isolated deployments.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` · System Profile
 
 ```yaml
-role:        Full Stack AI Engineer & Data Scientist
-location:    Islamabad, Pakistan
-portfolio:   https://v0-haseebusafxai.vercel.app/
+profile:
+  name: Haseeb Ahmad
+  role: Full Stack AI Engineer & Data Scientist
+  location: Islamabad, Pakistan
+  portfolio: https://v0-haseebusafxai.vercel.app/
 
-specialties:
+focus:
   - Agentic AI
-  - OSINT & Dark-Web Intelligence
   - RAG Pipelines
-  - LLM Fine-Tuning
+  - LLM Engineering
   - AI Automation
-  - Secure / Air-Gapped AI
+  - Web Intelligence
+  - Data Science
+  - Secure AI
 
 backend:
   - Python
@@ -84,206 +138,228 @@ frontend:
   - TypeScript
   - TailwindCSS
 
+ai:
+  - LangChain
+  - Hugging Face
+  - RAG
+  - Vector Databases
+  - LLM Fine-Tuning
+  - AI Agents
+
 automation:
   - n8n
-  - AI Agents
   - Workflow Orchestration
+  - AI Automation
 
 status:
   building: true
   learning: true
   shipping: true
-  open_to:  ["full-time", "contract", "remote"]
+  open_to:
+    - full-time
+    - contract
+    - remote
 ```
 
-<br/>
+---
 
-## 04 → Tech Stack
+## `04` · Tech Stack
 
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0B0F14?style=for-the-badge&logo=python&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/TypeScript-0B0F14?style=for-the-badge&logo=typescript&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/JavaScript-0B0F14?style=for-the-badge&logo=javascript&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/SQL-0B0F14?style=for-the-badge&logo=postgresql&logoColor=E8A33D"/>
-</p>
-
-**AI / LLM**
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-0B0F14?style=for-the-badge&logo=langchain&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/HuggingFace-0B0F14?style=for-the-badge&logo=huggingface&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/RAG-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/LLM_Fine--Tuning-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/Vector_DB-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Python-0B0F14?style=for-the-badge&logo=python&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/TypeScript-0B0F14?style=for-the-badge&logo=typescript&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/JavaScript-0B0F14?style=for-the-badge&logo=javascript&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/SQL-0B0F14?style=for-the-badge&logo=postgresql&logoColor=E8A33D"/>
 </p>
 
-**Intelligence / OSINT**
+### AI / LLM
 
 <p>
-  <img src="https://img.shields.io/badge/Playwright-0B0F14?style=for-the-badge&logo=playwright&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/OSINT-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/Dark_Web_Monitoring-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/Air--Gapped_AI-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/LangChain-0B0F14?style=for-the-badge&logo=langchain&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/HuggingFace-0B0F14?style=for-the-badge&logo=huggingface&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/RAG-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Agentic_AI-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/LLM_Fine--Tuning-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Vector_DB-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
 </p>
 
-**Backend / Frontend**
+### Intelligence / Data
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-0B0F14?style=for-the-badge&logo=fastapi&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/React-0B0F14?style=for-the-badge&logo=react&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/Next.js-0B0F14?style=for-the-badge&logo=next.js&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0B0F14?style=for-the-badge&logo=tailwindcss&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/Streamlit-0B0F14?style=for-the-badge&logo=streamlit&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Playwright-0B0F14?style=for-the-badge&logo=playwright&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Data_Science-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0B0F14?style=for-the-badge&logoColor=E8A33D"/>
 </p>
 
-**Automation / DevOps**
+### Backend / Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/n8n-0B0F14?style=for-the-badge&logo=n8n&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/Docker-0B0F14?style=for-the-badge&logo=docker&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/AWS-0B0F14?style=for-the-badge&logo=amazonaws&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/Azure-0B0F14?style=for-the-badge&logo=microsoftazure&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/GCP-0B0F14?style=for-the-badge&logo=googlecloud&logoColor=E8A33D"/>
-  <img src="https://img.shields.io/badge/Vercel-0B0F14?style=for-the-badge&logo=vercel&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/FastAPI-0B0F14?style=for-the-badge&logo=fastapi&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/React-0B0F14?style=for-the-badge&logo=react&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Next.js-0B0F14?style=for-the-badge&logo=next.js&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0B0F14?style=for-the-badge&logo=tailwindcss&logoColor=E8A33D"/>
 </p>
 
-<br/>
+### Automation / Cloud
 
-## 05 → Featured Work
+<p>
+<img src="https://img.shields.io/badge/n8n-0B0F14?style=for-the-badge&logo=n8n&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Docker-0B0F14?style=for-the-badge&logo=docker&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/AWS-0B0F14?style=for-the-badge&logo=amazonaws&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Azure-0B0F14?style=for-the-badge&logo=microsoftazure&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/GCP-0B0F14?style=for-the-badge&logo=googlecloud&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Vercel-0B0F14?style=for-the-badge&logo=vercel&logoColor=E8A33D"/>
+</p>
+
+---
+
+## `05` · Featured Projects
 
 <div align="center">
 
-<sub>🔒 Most production repositories are private under organizational policy — walkthroughs available on request.</sub>
+### 🔎 Intelligence & AI Systems
 
 </div>
 
-<br/>
-
-### 🔎 Intelligence & OSINT
-
-| Project | Description |
-|---|---|
-| **OSINT Intelligence Platform** | Large-scale collection, LLM classification, entity extraction & RAG-powered intelligence search |
-| **Hopper Airgap System** | Secure one-way data transfer between isolated networks with integrity verification & audit logging |
-| **Dark Web Threat Monitoring** | Surface/deep/dark-web monitoring with automated analyst alerting |
-| **Air-Gapped AI Deployment** | Offline LLM inference and RAG for isolated environments |
-| **Social Media Intelligence** | Automated SOCMINT collection, enrichment & entity resolution |
+| Project                         | What it does                                                                                         |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **OSINT Intelligence Platform** | Large-scale collection, LLM classification, entity extraction, and RAG-powered intelligence search   |
+| **Hopper Airgap System**        | Secure one-way data transfer between isolated networks with integrity verification and audit logging |
+| **Dark Web Threat Monitoring**  | Web monitoring with automated analyst alerting                                                       |
+| **Air-Gapped AI Deployment**    | Offline LLM inference and RAG for isolated environments                                              |
+| **Social Media Intelligence**   | Automated collection, enrichment, and entity resolution                                              |
 
 ### 🤖 Agentic AI & Automation
 
-| Project | Description |
-|---|---|
-| **Agentic AI Workflow Engine** | Multi-step autonomous agents with tools, memory and self-correction |
-| **Lead Generation Agent** | Prospect discovery, enrichment, qualification & CRM delivery |
-| **YouTube Content Automation** | Research → script → content pipeline orchestrated with n8n |
-| **n8n Intelligence Automation** | Multi-source scraping, enrichment and automated delivery |
+| Project                         | What it does                                                       |
+| ------------------------------- | ------------------------------------------------------------------ |
+| **Agentic AI Workflow Engine**  | Multi-step autonomous agents with tools, memory, and orchestration |
+| **Lead Generation Agent**       | Prospect discovery, enrichment, qualification, and CRM delivery    |
+| **YouTube Content Automation**  | Research → script → content pipeline orchestrated with n8n         |
+| **n8n Intelligence Automation** | Multi-source scraping, enrichment, and automated delivery          |
 
-### 🧠 LLM & AI Applications
+### 🧠 AI Applications
 
-| Project | Description |
-|---|---|
-| **MindGuard-GPT** | RAG-based conversational AI for mental health support |
-| **Adalat-AI-Chatbot** | Conversational AI legal assistant |
-| **Document Intelligence System** | Fine-tuned LLMs for classification, summarization & entity extraction |
-| **LLM Fine-Tuning Pipeline** | Domain-specific model fine-tuning with HuggingFace Transformers |
+| Project                          | What it does                                                     |
+| -------------------------------- | ---------------------------------------------------------------- |
+| **MindGuard-GPT**                | RAG-based conversational AI for mental-health support            |
+| **Adalat-AI-Chatbot**            | Conversational AI legal assistant                                |
+| **Document Intelligence System** | LLM-based classification, summarization, and entity extraction   |
+| **LLM Fine-Tuning Pipeline**     | Domain-specific model fine-tuning with Hugging Face Transformers |
 
 ### 📊 Data Science
 
-| Project | Result |
-|---|---|
-| **Credit Card Fraud Detection** | 99.5% detection accuracy |
-| **Car Price Prediction** | 94% prediction accuracy |
-| **Email Spam Detection** | Transformer-based NLP classification |
+| Project                         | Focus                                |
+| ------------------------------- | ------------------------------------ |
+| **Credit Card Fraud Detection** | Machine-learning fraud detection     |
+| **Car Price Prediction**        | Regression-based price prediction    |
+| **Email Spam Detection**        | Transformer-based NLP classification |
 
-<div align="center">
 <br/>
 
-[![View All Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS_→-E8A33D?style=for-the-badge&logoColor=0B0F14&labelColor=E8A33D)](https://v0-haseebusafxai.vercel.app/#projects)
+<div align="center">
+
+<a href="https://v0-haseebusafxai.vercel.app/#projects">
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS_→-E8A33D?style=for-the-badge&labelColor=E8A33D&logoColor=0B0F14"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-## 06 → Engineering Philosophy
+## `06` · Engineering Philosophy
 
+```text
+                    DATA
+                      │
+                      ▼
+             ┌─────────────────┐
+             │    COLLECT      │
+             │  APIs / WEB / DB│
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │   UNDERSTAND    │
+             │  RAG + LLM + ML │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │    AUTOMATE     │
+             │ AGENTS + n8n    │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │     DEPLOY      │
+             │ FASTAPI + REACT │
+             └────────┬────────┘
+                      │
+                      ▼
+                 REAL IMPACT
 ```
-        DATA
-          │
-          ▼
-   ┌───────────────┐
-   │   COLLECTION  │
-   └───────┬───────┘
-           │
-           ▼
-   ┌───────────────┐
-   │  INTELLIGENCE │
-   │  + RAG + LLM  │
-   └───────┬───────┘
-           │
-           ▼
-   ┌───────────────┐
-   │   AUTOMATION  │
-   │   + AGENTS    │
-   └───────┬───────┘
-           │
-           ▼
-   ┌───────────────┐
-   │   PRODUCTION  │
-   │  FASTAPI/REACT│
-   └───────┬───────┘
-           │
-           ▼
-      REAL IMPACT
-```
 
-**Collect → Understand → Automate → Deploy → Scale**
+### Collect → Understand → Automate → Deploy → Scale
 
-<br/>
+---
 
-## 07 → GitHub Stats
+## `07` · GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HaseebYousafxai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=E8A33D&icon_color=E8A33D&text_color=FFFFFF&ring_color=E8A33D" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebYousafxai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=E8A33D&text_color=FFFFFF" height="165" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=haseebusafxai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=E8A33D&icon_color=E8A33D&text_color=FFFFFF&ring_color=E8A33D" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebusafxai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=E8A33D&text_color=FFFFFF" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=HaseebYousafxai&hide_border=true&background=0B0F14&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=haseebusafxai&hide_border=true&background=0B0F14&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
 
-<br/>
+---
 
-## 08 → Let's Build
+## `08` · Let's Build
 
 <div align="center">
 
 ### Have an AI problem worth solving?
 
-**AI Agents · RAG · OSINT · Automation · LLMs · Secure AI**
+**AI Agents · RAG · LLMs · Automation · Data Science · Intelligent Applications**
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-E8A33D?style=for-the-badge&logoColor=0B0F14&labelColor=E8A33D)](https://v0-haseebusafxai.vercel.app/)
-[![Email](https://img.shields.io/badge/START_A_CONVERSATION-0B0F14?style=for-the-badge&logo=gmail&logoColor=E8A33D)](mailto:haaseebahmadyousafxai81@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=E8A33D)](https://www.linkedin.com/in/haseebahmadiuse/)
+<a href="https://v0-haseebusafxai.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-E8A33D?style=for-the-badge&labelColor=E8A33D"/>
+</a>
+
+<a href="mailto:haaseebahmadyousafxai81@gmail.com">
+<img src="https://img.shields.io/badge/START_A_CONVERSATION-0B0F14?style=for-the-badge&logo=gmail&logoColor=E8A33D"/>
+</a>
+
+<a href="https://www.linkedin.com/in/haseebahmadiuse/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=E8A33D"/>
+</a>
 
 <br/><br/>
 
-<sub>Building intelligent systems. Automating the impossible. Shipping with purpose.</sub>
+> **Building intelligent systems. Automating complex workflows. Shipping useful AI.**
 
-<br/><br/>
+<br/>
 
-```
-> system.status   [ ONLINE ]
-> mode            [ BUILDING ]
-> mission         [ TURNING DATA INTO INTELLIGENCE ]
-> portfolio       [ v0-haseebusafxai.vercel.app ]
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  SYSTEM STATUS   [ ONLINE ]                             │
+│  MODE            [ BUILDING ]                           │
+│  MISSION         [ TURNING DATA INTO INTELLIGENCE ]     │
+│  GITHUB          [ haseebusafxai ]                      │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 </div>
